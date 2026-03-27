@@ -1,0 +1,9 @@
+{
+  "name": "postgres_simcc",
+  "databaseType": { "name": "POSTGRESQL", "pluginId": "POSTGRESQL" },
+  "hostname": "127.0.0.1",
+  "port": "5437",
+  "databaseName": "BD_PESQUISADOR",
+  "username": "postgres",
+  "password": "root"
+}
