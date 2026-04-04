@@ -1,7 +1,7 @@
 # Tópicos Especiais em ENgenharia de Software
 
 - [x] Pipelines de Dados com Apache Hop
-- [ ] Busca em Banco de Dados Textual
+- [x] Busca em Banco de Dados Textual       *(cada arquivo SQL separado representa uma parte do tutorial)*
 - [ ] Next.js
 
 ### Apache hop
