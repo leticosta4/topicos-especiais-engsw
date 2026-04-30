@@ -5,7 +5,7 @@
 - [ ] Next.js
 - [ ] FastAPI
 - [ ] langchain
-- [ ] NLTK
+- [x] NLTK
 
 ### Apache hop
 - É preciso adicionar as variáveis `POSTGRES_USER`, `POSTGRES_PASSWORD` e `POSTGRES_HOST_AUTH_METHOD` no Dockerfile

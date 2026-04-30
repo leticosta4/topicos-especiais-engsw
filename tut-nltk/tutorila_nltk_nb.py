@@ -25,7 +25,11 @@ print(resultado.group(0))
 #precisa rodar o comando: pip install nltk
 
 import nltk
-nltk.download()
+nltk.download('machado')
+nltk.download('stopwords')
+nltk.download('punkt_tab')
+nltk.download('rslp')
+nltk.download('mac_morpho')
 
 """## corpus e classe text"""
 
